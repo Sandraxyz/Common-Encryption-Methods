@@ -20,7 +20,7 @@ Setup
     pip install rsa
     pip install tinyec
     
-Refernces/Sources used
+References/Sources used
 
 https://www.quickprogrammingtips.com/python/aes-256-encryption-and-decryption-in-python.html
 
