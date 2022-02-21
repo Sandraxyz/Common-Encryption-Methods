@@ -4,7 +4,7 @@ These are four codes that show different methods of encrypting and decrypting.
 
 TechStack
 
-    Python. 
+    Python 3.7 
 
 Team Members
 
@@ -19,4 +19,15 @@ Setup
     Import pycrypto Library
     pip install rsa
     pip install tinyec
+    
+Refernces/Sources used
+
+https://www.quickprogrammingtips.com/python/aes-256-encryption-and-decryption-in-python.html
+
+https://www-users.cse.umn.edu/~gini/computingacademy/2018/diffie.html
+
+https://www.geeksforgeeks.org/how-to-encrypt-and-decrypt-strings-in-python/
+
+https://cryptobook.nakov.com/asymmetric-key-ciphers/ecc-encryption-decryption
+
 
